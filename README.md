@@ -1,7 +1,7 @@
 ## ML4SE course
 
 01. Introduction to machine learning
-02. Transformers
+02. Introduction to Transformer
 03. Code representation 1
 04. Code representation 2
 05. Code generation
