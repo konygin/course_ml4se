@@ -7,6 +7,7 @@
 05. Code generation
 06. Code summarization
 07. Clone detection
-08. Code search
-09. Code completion
-10. Code defects
+08. Code search 1
+09. Code search 2
+10. Code completion
+11. Code defects
