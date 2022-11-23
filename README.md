@@ -1,11 +1,10 @@
 ## ML4SE course
 
-01. Introduction to machine learning
+01. [Introduction to machine learning](01_learning.ipynb)
   - backpropagation
   - computational graph
   - micrograd
-
-02. Introduction to Transformer
+02. [Introduction to Transformer](02_transformer.ipynb)
   - seq2seq
   - Transformer
 
