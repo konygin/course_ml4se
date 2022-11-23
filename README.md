@@ -1,12 +1,12 @@
-## ML4SE course
+## ML4SE coursei (at Ural Federal University)
 
 01. [Introduction to machine learning](01_learning.ipynb)
-  - backpropagation
-  - computational graph
-  - micrograd
+    - backpropagation
+    - computational graph
+    - micrograd
 02. [Introduction to Transformer](02_transformer.ipynb)
-  - seq2seq
-  - Transformer
+    - seq2seq
+    - Transformer
 03. [Code representation 1](03_code_representation.ipynb)
   - AST
   - code2vec
