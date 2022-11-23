@@ -1,4 +1,4 @@
-## ML4SE coursei (at Ural Federal University)
+## ML4SE course at Ural Federal University
 
 01. [Introduction to machine learning](01_learning.ipynb)
     - backpropagation
