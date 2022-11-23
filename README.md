@@ -8,24 +8,24 @@
     - seq2seq
     - Transformer
 03. [Code representation 1](03_code_representation.ipynb)
-  - AST
-  - code2vec
+    - AST
+    - code2vec
 04. [Code representation 2](04_code_representation.ipynb)
-  - CodeBERT
+    - CodeBERT
 05. [Code generation](05_code_generation.ipynb)
-  - Codex
-  - AlpahCode
+    - Codex
+    - AlpahCode
 06. [Code summarization](06_code_summarization.ipynb)
-  - CodeXGLUE
-  - BLEU, CodeBLEU
+    - CodeXGLUE
+    - BLEU, CodeBLEU
 07. [Clone detection](07_clone_detection.ipynb)
-  - clones
-  - approaches
+    - clones
+    - approaches
 08. [Code search 1](08_code_search.ipynb)
-  - approaches
+    - approaches
 09. [Code search 2](09_code_search.ipynb)
-  - TOSS
+    - TOSS
 10. [Code completion](10_code_completion.ipynb)
-  - Grammformer
+    - Grammformer
 11. [Vulnerabilities](11_vulnerabilities.ipynb)
-  - VulBERTa
+    - VulBERTa
