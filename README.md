@@ -14,7 +14,7 @@
     - CodeBERT
 05. [Code generation](05_code_generation.ipynb)
     - Codex
-    - AlpahCode
+    - AlphaCode
 06. [Code summarization](06_code_summarization.ipynb)
     - CodeXGLUE
     - BLEU, CodeBLEU
