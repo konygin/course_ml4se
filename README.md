@@ -29,3 +29,5 @@
     - Grammformer
 11. [Vulnerabilities](11_vulnerabilities.ipynb)
     - VulBERTa
+12. [Text-to-SQL](12_text-to-sql.ipynb)
+    - UniSAr
