@@ -16,4 +16,4 @@ ML4SE (Machine Learning for Software Engineering) --- применение ме�
 10. [Автодополнение кода](10_code_completion.ipynb): Grammformer
 11. [Поиск уязвимостей в коде](11_vulnerabilities.ipynb): VulBERTa
 12. [Text-to-SQL](12_text-to-sql.ipynb): UniSAr
-13. [Универсальные модели для кода](13_large_PL-models.ipynb): CoTexT
+13. [Универсальные модели для кода](13_large_PL_models.ipynb): CoTexT
