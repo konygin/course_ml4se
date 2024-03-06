@@ -4,8 +4,9 @@ Spring semester 2023-2024 academic year
 
 Lectures:
 
-0. *Introduction*
-1. *Code*: syntax, semantics; defects, bugs, defects, vulnerabilities; code metrics; AST, DFG, CPG, Rice's theorem
+0. **Introduction**
+1. **Code**
+> syntax, semantics; defects, bugs, defects, vulnerabilities; code metrics; AST, DFG, CPG, Rice's theorem
 2. *Machine Learning*: neural networks, gradient descent, backpropagation
 3. *Seq2seq*
 4. *Transformers*: Encoder
