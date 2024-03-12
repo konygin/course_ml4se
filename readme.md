@@ -4,8 +4,11 @@ Spring semester 2023-2024 academic year
 
 Lectures:
 
-0. [**Introduction**](0_introduction.ipynb)
-1. [**Code**](1_code.ipynb): syntax, semantics; defects, bugs, defects, vulnerabilities; code metrics; AST, DFG, CPG, Rice's theorem
+0. [**Introduction**](00_introduction.ipynb)
+1. [**Code**](01_code.ipynb)
+    - AST, DFG, CPG
+    - code metrics
+    - The halting Problem
 2. *Machine Learning*: neural networks, gradient descent, backpropagation
 3. *Seq2seq*: tokenization
 4. *Transformers, I*: Encoder, self-attention, position encodings
