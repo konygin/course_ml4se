@@ -9,7 +9,10 @@ Lectures:
     - AST, DFG, CPG
     - code metrics
     - The halting Problem
-2. *Machine Learning*: neural networks, gradient descent, backpropagation
+2. [**Machine Learning**](02_machine_learning.ipynb)
+    - neural networks
+    - gradient descent
+    - backpropagation
 3. *Seq2seq*: tokenization
 4. *Transformers, I*: Encoder, self-attention, position encodings
 5. *Transformers, II*: Decoder, Encoder-Decoder, LLMs
