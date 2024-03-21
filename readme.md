@@ -13,7 +13,9 @@ Lectures:
     - neural networks
     - gradient descent
     - backpropagation
-3. *Seq2seq*: tokenization
+3. [**Seq2seq**](03_seq2seq.ipynb)
+    - sequence-to-sequence
+    - tokenization
 4. *Transformers, I*: Encoder, self-attention, position encodings
 5. *Transformers, II*: Decoder, Encoder-Decoder, LLMs
 6. *Code Representation*: CodeBERT, GraphCodeBERT, UniXCoder
