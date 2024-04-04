@@ -8,7 +8,7 @@ Lectures:
 1. [**Code**](01_code.ipynb)
 2. [**Machine Learning**](02_machine_learning.ipynb)
 3. [**Seq2seq**](03_seq2seq.ipynb)
-4. [**Encider**](04_encoder.ipynb)
+4. [**Encoder**](04_encoder.ipynb)
 5. [**Transformer**](05_transformer.ipynb)
 6. *Code Representation*
 7. *LLMs*: ICL, PEFT, RHFL
