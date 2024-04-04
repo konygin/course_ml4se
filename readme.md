@@ -6,19 +6,11 @@ Lectures:
 
 0. [**Introduction**](00_introduction.ipynb)
 1. [**Code**](01_code.ipynb)
-    - AST, DFG, CPG
-    - code metrics
-    - The halting Problem
 2. [**Machine Learning**](02_machine_learning.ipynb)
-    - neural networks
-    - gradient descent
-    - backpropagation
 3. [**Seq2seq**](03_seq2seq.ipynb)
-    - sequence-to-sequence
-    - tokenization
-4. *Transformers, I*: Encoder, self-attention, position encodings
-5. *Transformers, II*: Decoder, Encoder-Decoder, LLMs
-6. *Code Representation*: CodeBERT, GraphCodeBERT, UniXCoder
+4. [**Encider**](04_encoder.ipynb)
+5. [**Transformer**](05_transformer.ipynb)
+6. *Code Representation*
 7. *LLMs*: ICL, PEFT, RHFL
 8. *Code Generation*
 9. *Clone Detection*
