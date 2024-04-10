@@ -10,7 +10,7 @@ Lectures:
 3. [**Seq2seq**](03_seq2seq.ipynb)
 4. [**Encoder**](04_encoder.ipynb)
 5. [**Transformer**](05_transformer.ipynb)
-6. *Code Representation*
+6. [**Code Representation**](06_code_representation.ipynb)
 7. *LLMs*: ICL, PEFT, RHFL
 8. *Code Generation*
 9. *Clone Detection*
