@@ -13,12 +13,4 @@ Lectures:
 6. [**Code Representation**](06_code_representation.ipynb)
 7. [**LLMs**](07_llms.ipynb)
 8. [**Clone Detection**](08_clone_detection.ipynb)
-9. *Code Generation*
-10. *Code Defects*
-11. *Code Search*: neural search, RAG
-12. *Multiagent Systems*: collaborative agents
-
-Optional:
-
-13. *Code Optimization*
-14. *LLMs Inference*
+9. [**Collaborative Agents**](09_collaborative_agents.ipynb)
