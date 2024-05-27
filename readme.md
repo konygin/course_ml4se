@@ -15,3 +15,4 @@ Lectures:
 8. [**Clone Detection**](08_clone_detection.ipynb)
 9. [**Collaborative Agents**](09_collaborative_agents.ipynb)
 10. [**Code Defects**](10_code_defects.ipynb)
+11. [**Code Search**](11_code_search.ipynb)
