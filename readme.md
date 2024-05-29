@@ -16,3 +16,4 @@ Lectures:
 9. [**Collaborative Agents**](09_collaborative_agents.ipynb)
 10. [**Code Defects**](10_code_defects.ipynb)
 11. [**Code Search**](11_code_search.ipynb)
+12. [**Code Generation**](12_code_generation.ipynb)
