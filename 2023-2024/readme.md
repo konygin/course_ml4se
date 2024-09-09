@@ -1,6 +1,6 @@
 # ML4SE course
 
-Autumn semester 2024-2025 academic year
+Spring semester 2023-2024 academic year
 
 Lectures:
 
@@ -17,7 +17,3 @@ Lectures:
 10. [**Code Defects**](10_code_defects.ipynb)
 11. [**Code Search**](11_code_search.ipynb)
 12. [**Code Generation**](12_code_generation.ipynb)
-13. ...
-14. ...
-15. ...
-16. ...
