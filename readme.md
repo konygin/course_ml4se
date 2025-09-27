@@ -1,6 +1,6 @@
 # ML4SE course
 
-Autumn semester 2024-2025 academic year
+Autumn semester 2025-2026 academic year
 
 Lectures:
 
@@ -9,7 +9,7 @@ Lectures:
 2. [**Machine Learning**](02_machine_learning.ipynb)
 3. [**Seq2seq**](03_seq2seq.ipynb)
 4. [**Encoder**](04_encoder.ipynb)
-5. [**Transformer**](05_transformer.ipynb)
+5. [**Transformers**](05_transformer.ipynb)
 6. [**Code Representation**](06_code_representation.ipynb)
 7. [**LLMs**](07_llms.ipynb)
 8. [**Clone Detection**](08_clone_detection.ipynb)
@@ -17,7 +17,5 @@ Lectures:
 10. [**Code Defects**](10_code_defects.ipynb)
 11. [**Code Search**](11_code_search.ipynb)
 12. [**Code Generation**](12_code_generation.ipynb)
-13. ...
-14. ...
-15. ...
-16. ...
+13. [**Code Review**](13_code_review.ipynb)
+14. [**AI4SE**](14_ai4se.ipynb)
